@@ -1,0 +1,4 @@
+funct = 'test2'
+num = [60,6]
+bounds = [[0,1]]
+bfgs_iter = [2000]
