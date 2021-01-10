@@ -13,7 +13,7 @@ The regression results comparisons between conventional Gaussian process method 
 
 Codes reimplemented here is based on the idea from the following paper:
 
-Nonlinear information fusion algorithms for data-efficient multi-fidelity modelling, P. Perdikaris, et al. Proc. R. Soc. A-17
+- P. Perdikaris, M. Raissi, A. Damianou, N. Lawrence, and G. E. Karniadakis, “Nonlinear information fusion algorithms for data-efficient multifidelity modelling,” *Proc. R. Soc. A*, vol. 473, no. 2198, p. 20160751, 2017.
 
 ## Usage
 See *run.sh*.
